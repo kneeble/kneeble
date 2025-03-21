@@ -4,7 +4,7 @@
 **`Current Student Developer`**
 
 
-I am a fourth year college student Studying Cybersecurity. My projects can be seen as miscellaneous in nature, all built from scratch.
+I am a fourth year college student Studying Computer Science. My projects can be seen as miscellaneous in nature, all built from scratch.
 
 ---
 
